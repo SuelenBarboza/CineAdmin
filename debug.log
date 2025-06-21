@@ -1,0 +1,13 @@
+Array
+(
+    [session] => 
+    [input] => {"secao":"aparencia","dados":{"modo_escuro":true,"tema_cor":"#e50914","fonte":"'Sans', 'Helvetica Neue', Arial, sans-serif","tamanho_fonte":"16px"}}
+    [post] => Array
+        (
+        )
+
+    [get] => Array
+        (
+        )
+
+)
